@@ -1,3 +1,2 @@
 *.dbmdl
-*.suo
-.vs\
+*/.vs/*
